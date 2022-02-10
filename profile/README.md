@@ -15,7 +15,7 @@ Botpress is the standard developer stack to build, run and improve Conversationa
         📕Documentation📕
     </a>
     &nbsp;
-    <a href="forum.botpress.com" class="btn btn-default btn-lg">
+    <a href="https://forum.botpress.com" class="btn btn-default btn-lg">
         ✨Forum✨
     </a> 
     &nbsp;
