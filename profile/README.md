@@ -1,8 +1,7 @@
 <h1 align="center">
   <img
-      alt="Datalayer"
+      alt="Botpress"
       src="./assets/bp-logo.svg"
-      width="200"
     />
 </h1>
 
