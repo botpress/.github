@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
       alt="Botpress"
-      src="https://botpress.com/img/botpress.svg"
+      src="https://botpress.com/Logo.svg"
     />
 </h1>
 
