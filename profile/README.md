@@ -14,6 +14,10 @@ Botpress is the standard developer stack to build, run and improve Conversationa
     <a href="https://botpress.com/docs">
         📕Documentation📕
     </a>
+    &nbsp; 
+    <a href="https://learn.botpress.com/" class="btn btn-default btn-lg">
+        🧠Learning Center🧠
+    </a> 
     &nbsp;
     <a href="https://forum.botpress.com" class="btn btn-default btn-lg">
         ✨Forum✨
@@ -21,5 +25,5 @@ Botpress is the standard developer stack to build, run and improve Conversationa
     &nbsp;
     <a href="https://botpress.com/download" class="btn btn-default btn-lg">
         💾Download💾
-    </a> 
+    </a>    
 </center>
