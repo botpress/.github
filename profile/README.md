@@ -1,8 +1,7 @@
 <h1 align="center">
-  <img
-      alt="Botpress"
-      src="https://botpress.com/Logo.svg"
-    />
+  <a href="https://botpress.com">
+    <img width=300 src="https://user-images.githubusercontent.com/955524/207101937-d1cc88a0-2773-4df7-9b29-9f7769ba1dd1.png" alt="Botpress Logo"/>  
+  </a>
 </h1>
 
 
