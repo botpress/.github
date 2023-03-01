@@ -4,25 +4,24 @@
   </a>
 </h1>
 
+Botpress is the standard developer stack to build, run, and improve conversational AI applications. Powered by natural language understanding, a messaging API, and a fully featured studio, Botpress allows developers and conversation designers around the globe to build remarkable chatbots without compromise.
 
-Botpress is the standard developer stack to build, run and improve Conversational-AI applications. Powered by natural language understanding, a messaging API and a fully featured studio, Botpress allows developers and conversation designers around the globe to build remarkable chatbots without compromise.
+The fastest & easiest way to get started with Botpress is by signing up for free to **[Botpress Cloud](https://sso.botpress.cloud/registration)**. Alternatively, the following resources will help you continue with Botpress v12.
+
 
 </hr>
 
-<center>
-    <a href="https://sso.botpress.cloud/registration" class="btn btn-default btn-lg">
-        ⚡Get Started⚡
-    </a>  
+<p align="center">
+    <a href="https://v12.botpress.com/overview/quickstart/installation" class="btn btn-default btn-lg">
+        ⚡Get Started⚡</a>
     &nbsp;
-    <a href="https://botpress.com/docs">
-        📕Documentation📕
-    </a>
+    <a href="https://v12.botpress.com/" class="btn btn-default btn-lg">
+        📕Documentation📕</a>
     &nbsp; 
     <a href="https://learn.botpress.com/" class="btn btn-default btn-lg">
-        🧠Learning Center🧠
-    </a> 
+        🧠Learning Center🧠</a>
     &nbsp;
-    <a href="https://forum.botpress.com" class="btn btn-default btn-lg">
-        ✨Forum✨
-    </a>   
-</center>
+    <a href="https://github.com/botpress/botpress/discussions" class="btn btn-default btn-lg">
+        ✨v12 Forum✨
+    </a>
+</p>
