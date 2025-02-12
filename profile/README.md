@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://botpress.com">
-    <img width=300 src="https://user-images.githubusercontent.com/955524/207101937-d1cc88a0-2773-4df7-9b29-9f7769ba1dd1.png" alt="Botpress Logo"/>  
+    <img width=300 src="https://github.com/user-attachments/assets/c1b15c5b-b693-478a-aa4c-f6ced1bf1b88" alt="Botpress Logo"/>  
   </a>
 </h1>
 
