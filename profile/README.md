@@ -25,6 +25,6 @@ The fastest & easiest way to get started with Botpress is by signing up for free
     </a>
   &nbsp;
     <a href="https://v12.botpress.com/" class="btn btn-default btn-lg">
-      💾 v12 docs (legacy) 💾  
+      💾v12 docs (legacy)💾  
   </a>
 </p>
